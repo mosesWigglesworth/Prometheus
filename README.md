@@ -1,5 +1,5 @@
-****16 - Module Overview Monitoring with Prometheus
-****
+****16 - Module Overview Monitoring with Prometheus****
+
 ### 📘 **1. Introduction to Monitoring with Prometheus**
 
 🧠 **What You’ll Learn**:
@@ -90,15 +90,6 @@ Knowing whether your Kubernetes **objects** are stable helps ensure your applica
 
 ✅ **Benefit**:
 Instant visibility into the **operational state** of essential third-party services your app depends on.
-
-Absolutely! Let’s complete the remaining subtopics of the “Module Overview: Monitoring with Prometheus” in a crystal-clear, interactive, and easy-to-absorb format. At the end, you’ll also get a concise summary of all 10 subtopics. 🚀📊🧠
-
-—
-
-🎯 Module Overview: Monitoring with Prometheus
-Interactive Explanation of Subtopics 6–10 (with icons & real-world clarity)
-
----
 
 🔧 6. Monitoring Custom Microservices
 
